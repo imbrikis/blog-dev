@@ -1,10 +1,11 @@
 import React from 'react'
+import { Container } from 'react-bootstrap';
 
 const App = () => {
   return (
-    <div className="App">
+    <Container fluid='md'>
       App
-    </div>
+    </Container>
   );
 }
 
