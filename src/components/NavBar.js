@@ -1,6 +1,5 @@
 import React from 'react'
 import { Navbar, Nav } from 'react-bootstrap'
-import bgImg from '../images/BG_1.png'
 
 const NavBar = () => {
   return (
